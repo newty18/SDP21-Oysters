@@ -1,0 +1,19 @@
+{
+  "name": "oysterbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newty18/SDP21-Oysters.git"
+  },
+  "author": "Jack Newton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newty18/SDP21-Oysters/issues"
+  },
+  "homepage": "https://github.com/newty18/SDP21-Oysters#readme"
+}
